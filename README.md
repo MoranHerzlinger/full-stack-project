@@ -1,9 +1,9 @@
 # libary
-HTML
-CSS
-JavaScript
-Node.js
-React.js
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- React.js
 
 ## Prerequisites:
 - NPM (version 8 or 9)
